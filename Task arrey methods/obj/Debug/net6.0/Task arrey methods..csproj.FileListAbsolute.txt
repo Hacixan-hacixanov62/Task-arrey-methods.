@@ -1,0 +1,14 @@
+C:\C#\Task arrey methods\Task arrey methods\bin\Debug\net6.0\Task arrey methods..exe
+C:\C#\Task arrey methods\Task arrey methods\bin\Debug\net6.0\Task arrey methods..deps.json
+C:\C#\Task arrey methods\Task arrey methods\bin\Debug\net6.0\Task arrey methods..runtimeconfig.json
+C:\C#\Task arrey methods\Task arrey methods\bin\Debug\net6.0\Task arrey methods..dll
+C:\C#\Task arrey methods\Task arrey methods\bin\Debug\net6.0\Task arrey methods..pdb
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..AssemblyInfoInputs.cache
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..AssemblyInfo.cs
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..csproj.CoreCompileInputs.cache
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..dll
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\refint\Task arrey methods..dll
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..pdb
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\Task arrey methods..genruntimeconfig.cache
+C:\C#\Task arrey methods\Task arrey methods\obj\Debug\net6.0\ref\Task arrey methods..dll

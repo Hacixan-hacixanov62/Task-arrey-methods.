@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task arrey methods./1.0.0": {
+        "runtime": {
+          "Task arrey methods..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task arrey methods./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
